@@ -1,4 +1,4 @@
-# nosSQL challenge
+# noSQL challenge
 
 ## Instructions
 
